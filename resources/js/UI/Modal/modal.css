@@ -1,0 +1,18 @@
+.SuccessPopUp-class{
+    position: absolute;
+    width: 60%;
+    height: 70px;
+    top: 90%;
+    left:240%;
+    transition: all .8s ease;
+    border: 1px solid #eeeeee;
+    box-shadow: 2px 3px 5px #000000;
+    /* background-image: linear-gradient(to left bottom, #3df0c9, #5beda5, #7ee87d, #a2e153, #c7d622); */
+}
+.SuccessPopUp-class p{
+    text-align: center;
+    padding: 20px;
+    line-height: 18.5px;
+    font-size: 25px;
+    font-weight: bold;
+}

@@ -1,0 +1,10 @@
+.return-button {
+    color: #fff;
+    background-color: #7971ea;
+    border-color: #7971ea;
+}
+.return-button:hover {
+    color: #fff;
+    background-color: #5a50e5;
+    border-color: #4f45e3;
+}

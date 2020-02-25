@@ -1,0 +1,30 @@
+.tableHead {
+    color: #fff;
+    background-color: #7971ea;
+    border-color: #7971ea;
+}
+
+.accept-button {
+    color: #fff;
+    background-color: #7971ea;
+    border-color: #7971ea;
+}
+.accept-button:hover {
+    color: #fff;
+    background-color: #5a50e5;
+    border-color: #4f45e3;
+}
+.reject-button {
+    color: #fff;
+    background-color: #7971ea;
+    border-color: #7971ea;
+    margin-left: 10%;
+}
+.reject-button:hover {
+    color: #fff;
+    background-color: #5a50e5;
+    border-color: #4f45e3;
+}
+button.btn.btn-primary.float-right {
+    margin-top: 9%;
+}
